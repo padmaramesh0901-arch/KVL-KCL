@@ -1,5 +1,5 @@
-NAME:issachenryrufuson s
-REG.NO: 212224250007
+NAME:Padmapriya P
+REG.NO: 212224250012
 
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
